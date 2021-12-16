@@ -1,0 +1,17 @@
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\obj\Debug\net5.0\eShop.DataStore.HardCoded.csprojAssemblyReference.cache
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\obj\Debug\net5.0\eShop.DataStore.HardCoded.GeneratedMSBuildEditorConfig.editorconfig
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\obj\Debug\net5.0\eShop.DataStore.HardCoded.AssemblyInfoInputs.cache
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\obj\Debug\net5.0\eShop.DataStore.HardCoded.AssemblyInfo.cs
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\obj\Debug\net5.0\eShop.DataStore.HardCoded.csproj.CoreCompileInputs.cache
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\bin\Debug\net5.0\eShop.DataStore.HardCoded.deps.json
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\bin\Debug\net5.0\eShop.DataStore.HardCoded.dll
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\bin\Debug\net5.0\ref\eShop.DataStore.HardCoded.dll
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\bin\Debug\net5.0\eShop.DataStore.HardCoded.pdb
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\bin\Debug\net5.0\eShop.CoreBusiness.dll
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\bin\Debug\net5.0\eShop.UseCases.dll
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\bin\Debug\net5.0\eShop.UseCases.pdb
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\bin\Debug\net5.0\eShop.CoreBusiness.pdb
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\obj\Debug\net5.0\eShop.DataStore.HardCoded.csproj.CopyComplete
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\obj\Debug\net5.0\eShop.DataStore.HardCoded.dll
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\obj\Debug\net5.0\ref\eShop.DataStore.HardCoded.dll
+E:\Jatin work\WebApp\eShop.DataStore.HardCoded\obj\Debug\net5.0\eShop.DataStore.HardCoded.pdb

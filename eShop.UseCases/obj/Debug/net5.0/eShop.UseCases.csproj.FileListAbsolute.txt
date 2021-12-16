@@ -1,0 +1,15 @@
+E:\Jatin work\WebApp\eShop.UseCases\bin\Debug\net5.0\eShop.UseCases.deps.json
+E:\Jatin work\WebApp\eShop.UseCases\bin\Debug\net5.0\eShop.UseCases.dll
+E:\Jatin work\WebApp\eShop.UseCases\bin\Debug\net5.0\ref\eShop.UseCases.dll
+E:\Jatin work\WebApp\eShop.UseCases\bin\Debug\net5.0\eShop.UseCases.pdb
+E:\Jatin work\WebApp\eShop.UseCases\bin\Debug\net5.0\eShop.CoreBusiness.dll
+E:\Jatin work\WebApp\eShop.UseCases\bin\Debug\net5.0\eShop.CoreBusiness.pdb
+E:\Jatin work\WebApp\eShop.UseCases\obj\Debug\net5.0\eShop.UseCases.csprojAssemblyReference.cache
+E:\Jatin work\WebApp\eShop.UseCases\obj\Debug\net5.0\eShop.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Jatin work\WebApp\eShop.UseCases\obj\Debug\net5.0\eShop.UseCases.AssemblyInfoInputs.cache
+E:\Jatin work\WebApp\eShop.UseCases\obj\Debug\net5.0\eShop.UseCases.AssemblyInfo.cs
+E:\Jatin work\WebApp\eShop.UseCases\obj\Debug\net5.0\eShop.UseCases.csproj.CoreCompileInputs.cache
+E:\Jatin work\WebApp\eShop.UseCases\obj\Debug\net5.0\eShop.UseCases.csproj.CopyComplete
+E:\Jatin work\WebApp\eShop.UseCases\obj\Debug\net5.0\eShop.UseCases.dll
+E:\Jatin work\WebApp\eShop.UseCases\obj\Debug\net5.0\ref\eShop.UseCases.dll
+E:\Jatin work\WebApp\eShop.UseCases\obj\Debug\net5.0\eShop.UseCases.pdb

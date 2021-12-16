@@ -1,0 +1,12 @@
+E:\Jatin work\WebApp\eShop.CoreBusiness\bin\Debug\net5.0\eShop.CoreBusiness.deps.json
+E:\Jatin work\WebApp\eShop.CoreBusiness\bin\Debug\net5.0\eShop.CoreBusiness.dll
+E:\Jatin work\WebApp\eShop.CoreBusiness\bin\Debug\net5.0\ref\eShop.CoreBusiness.dll
+E:\Jatin work\WebApp\eShop.CoreBusiness\bin\Debug\net5.0\eShop.CoreBusiness.pdb
+E:\Jatin work\WebApp\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.csprojAssemblyReference.cache
+E:\Jatin work\WebApp\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\Jatin work\WebApp\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+E:\Jatin work\WebApp\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.AssemblyInfo.cs
+E:\Jatin work\WebApp\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+E:\Jatin work\WebApp\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.dll
+E:\Jatin work\WebApp\eShop.CoreBusiness\obj\Debug\net5.0\ref\eShop.CoreBusiness.dll
+E:\Jatin work\WebApp\eShop.CoreBusiness\obj\Debug\net5.0\eShop.CoreBusiness.pdb
