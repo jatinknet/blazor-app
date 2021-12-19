@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
+      "projectUniqueName": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
       "projectName": "eShop.DataStore.HardCoded",
-      "projectPath": "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
+      "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
       "packagesPath": "C:\\Users\\Kanishka\\.nuget\\packages\\",
-      "outputPath": "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\obj\\",
+      "outputPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kanishka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Jatin work\\WebApp\\eShop.UseCases\\eShop.UseCases.csproj": {
-              "projectPath": "E:\\Jatin work\\WebApp\\eShop.UseCases\\eShop.UseCases.csproj"
+            "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\eShop.UseCases.csproj": {
+              "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\eShop.UseCases.csproj"
             }
           }
         }

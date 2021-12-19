@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BLbbMurURY0syPjqJnNk7uM2RnVFuzzpeiyXYvwomZK1bO5vzaKl9wYpgDq2o2Qda9TOEOTtxWi7b1u6NmBaZg==",
+  "dgSpecHash": "YHrhmpsF5Qpi7wx/Pv1uvrnix5UjXBj3olCgHBWbWpGcDlz+kTrCsjuCc8AH5bueBewAXf30AyKyBaSDSBH70g==",
   "success": true,
-  "projectFilePath": "E:\\Jatin work\\WebApp\\eShop.UseCases\\eShop.UseCases.csproj",
+  "projectFilePath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\eShop.UseCases.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

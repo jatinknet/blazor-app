@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Jatin work\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "E:\\Jatin work\\WebApp\\blazor-app\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "E:\\Jatin work\\WebApp\\WebApp\\WebApp.csproj",
+      "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\Kanishka\\.nuget\\packages\\",
-      "outputPath": "E:\\Jatin work\\WebApp\\WebApp\\obj\\",
+      "outputPath": "E:\\Jatin work\\WebApp\\blazor-app\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kanishka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,14 +91,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
-              "projectPath": "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
+            "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+              "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
             },
-            "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj": {
-              "projectPath": "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj"
+            "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj": {
+              "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj"
             },
-            "E:\\Jatin work\\WebApp\\eShop.UseCases\\eShop.UseCases.csproj": {
-              "projectPath": "E:\\Jatin work\\WebApp\\eShop.UseCases\\eShop.UseCases.csproj"
+            "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\eShop.UseCases.csproj": {
+              "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\eShop.UseCases.csproj"
             }
           }
         }

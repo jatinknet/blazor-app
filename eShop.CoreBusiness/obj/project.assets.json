@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
+      "projectUniqueName": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
       "projectName": "eShop.CoreBusiness",
-      "projectPath": "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
+      "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
       "packagesPath": "C:\\Users\\Kanishka\\.nuget\\packages\\",
-      "outputPath": "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\obj\\",
+      "outputPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kanishka\\AppData\\Roaming\\NuGet\\NuGet.Config",

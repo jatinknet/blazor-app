@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj": {}
+    "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj": {}
   },
   "projects": {
-    "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+    "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
+        "projectUniqueName": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
         "projectName": "eShop.CoreBusiness",
-        "projectPath": "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
+        "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
         "packagesPath": "C:\\Users\\Kanishka\\.nuget\\packages\\",
-        "outputPath": "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\obj\\",
+        "outputPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kanishka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj": {
+    "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
+        "projectUniqueName": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
         "projectName": "eShop.DataStore.HardCoded",
-        "projectPath": "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
+        "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
         "packagesPath": "C:\\Users\\Kanishka\\.nuget\\packages\\",
-        "outputPath": "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\obj\\",
+        "outputPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kanishka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Jatin work\\WebApp\\eShop.UseCases\\eShop.UseCases.csproj": {
-                "projectPath": "E:\\Jatin work\\WebApp\\eShop.UseCases\\eShop.UseCases.csproj"
+              "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\eShop.UseCases.csproj": {
+                "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\eShop.UseCases.csproj"
               }
             }
           }
@@ -116,14 +116,14 @@
         }
       }
     },
-    "E:\\Jatin work\\WebApp\\eShop.UseCases\\eShop.UseCases.csproj": {
+    "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\eShop.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Jatin work\\WebApp\\eShop.UseCases\\eShop.UseCases.csproj",
+        "projectUniqueName": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\eShop.UseCases.csproj",
         "projectName": "eShop.UseCases",
-        "projectPath": "E:\\Jatin work\\WebApp\\eShop.UseCases\\eShop.UseCases.csproj",
+        "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\eShop.UseCases.csproj",
         "packagesPath": "C:\\Users\\Kanishka\\.nuget\\packages\\",
-        "outputPath": "E:\\Jatin work\\WebApp\\eShop.UseCases\\obj\\",
+        "outputPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kanishka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,8 +140,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
-                "projectPath": "E:\\Jatin work\\WebApp\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
+              "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+                "projectPath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
               }
             }
           }

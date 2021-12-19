@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AkCpXvKFG9cE3GI5x/WqU+YgjVt5KJQQ7mxPsAjIrNyyTAaJBnQsilLRxe9T6TKZ5voVqViW20sp3r7C6P09tw==",
+  "dgSpecHash": "lS83E9WLBccNwbVtZ+IR9p+aps0QuzPbJBBtaABXueAWKiRhxZYHPN3uLfb6os5OCT9SMHu+DOm4cL6/V4TKBQ==",
   "success": true,
-  "projectFilePath": "E:\\Jatin work\\WebApp\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
+  "projectFilePath": "E:\\Jatin work\\WebApp\\blazor-app\\eShop.DataStore.HardCoded\\eShop.DataStore.HardCoded.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
